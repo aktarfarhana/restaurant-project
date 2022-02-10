@@ -1,0 +1,331 @@
+@media (min-width: 992px) and (max-width:1200px){
+    .row h1{
+        font-size: 40px;
+        font-weight: 400;
+        font-family: Tahoma; 
+        margin-bottom: 30px; 
+     }
+     .row3 .btn{
+        margin-left: 350px;
+         }
+
+    .card-body h5{
+        font-size: 18px;
+        margin-left: -40px;
+        }
+        
+}
+
+@media (min-width: 768px) and (max-width:992px){
+    .row h1{
+        font-size: 30px;
+        font-weight: 400;
+        font-family: Tahoma; 
+        margin-bottom: 30px; 
+     } 
+
+     .row3 .btn{
+        margin-left: 250px;
+         }
+    .row4{
+        width: 100%;
+        height: 700px;
+        }
+
+    .card-body h5{
+        font-size: 13px;
+        margin-left: -50px;
+        font-weight: 700;
+        }     
+    .card-body p{
+        font-size: 13px;
+        margin-left: -20px;
+        }   
+    .card-body h6{
+        font-size: 14px;
+        margin-left: -20px;
+        font-weight: 700;
+        }             
+
+}
+
+
+@media  (min-width: 600px) and (max-width:768px) {
+    .row h1{
+        font-size: 25px;
+        font-weight: 400;
+        font-family: Tahoma; 
+        margin-bottom: 30px;
+        margin-left: 0px; 
+     } 
+
+     .row2{
+  
+        height: 450px;
+     } 
+
+    #search{
+        margin-left: 40px;
+        border: none;
+        border-radius: 20px;
+         
+      }
+    .row3 .btn{
+        margin-left: 150px;
+    }
+    .row4{
+        width: 100%;
+        height: 600px;
+        }
+    
+    .card-body h5{
+        font-size: 8px;
+        margin-left: -50px;
+        font-weight: 700;
+        }     
+    .card-body p{
+        font-size: 13px;
+        margin-left: -20px;
+        }   
+    .card-body h6{
+        font-size: 14px;
+        margin-left: -20px;
+        font-weight: 700;
+        }               
+    .row4 h2{
+        font-size: 25px;
+    }
+
+    .row5 .para{
+        color: dimgray;
+        font-size: 12px;
+     }
+   
+}
+
+@media (min-width:578px) and (max-width: 600px) {
+    .row h1{
+        font-size: 20px;
+        margin-left: 0px;
+      
+     } 
+    .row2{
+  
+        height: 400px;
+     } 
+     #search{
+        margin-left: 45px;
+        border: none;
+        border-radius: 20px;
+         
+      }
+      .menu{
+        text-align: center;
+        margin-top: 80px;
+        margin-bottom: 0px;
+     }
+
+    .row3 .btn{
+        margin-left: 120px;
+    }
+    .row4{
+        width: 100%;
+        height: 600px;
+        }
+    
+    .card-body h5{
+        font-size: 8px;
+        margin-left: -50px;
+        font-weight: 700;
+        }     
+    .card-body p{
+        font-size: 13px;
+        margin-left: -20px;
+        }   
+    .card-body h6{
+        font-size: 14px;
+        margin-left: -20px;
+        font-weight: 700;
+        }               
+    .row4 h2{
+        font-size: 20px;
+    }
+    .row5 .para{
+        color: dimgray;
+        font-size: 10px;
+     }
+
+     .row5 h6{
+       
+        font-size: 15px;
+     }
+
+     .row5 p{
+       
+        font-size: 13px;
+     }
+}
+
+
+@media (max-width:578px){
+
+    .row1{
+        min-width: 100vh;
+    }
+
+    .row2{
+        height: 450px;
+        min-width: 100vh;
+        
+     }
+    .row h1{
+        font-size: 30px;
+        margin-left: 0px;
+     } 
+
+     #search{
+        margin-left: 0px;
+        border: none;
+        border-radius: 20px;
+        height: 60px;
+        width: 350px;
+        margin-left: 250px;
+        margin-bottom: 20px;
+         
+      }
+
+    .row2 button{
+        margin-left: 360px;
+        margin-top: 20px; 
+        padding: 10px 30px;
+    } 
+    
+    
+    .row3{
+        
+        min-width: 100vh;
+     }
+     
+     .menu{
+        margin-top: 100px;
+     }
+     
+     
+       .cat1,.cat2,.cat3,.cat4,.cat5,.cat6,.cat7,.cat8,.cat9,.cat10,.cat11,.cat12,.cat13,.cat14,.cat15,.cat16,.cat17,.cat18,img{
+          width:170px;
+         display: grid;
+         justify-content: flex-start;
+         margin-bottom: 15px;
+         margin-top: 0px;
+         
+       }
+     
+       .cat1,.cat2,.cat3,.cat4,.cat5,.cat6,.cat7,.cat8,.cat9,.cat10,.cat11,.cat12,.cat13,.cat14,.cat15,.cat16,.cat17,.cat18,h5,h4{
+        
+       padding-left:8px;
+      
+     }
+     
+     .cat2,.cat11,.cat17{
+        box-shadow: 10px 10px 40px rgb(226, 221, 221);
+     }
+     
+     .cat1,.cat2,.cat3,.cat4,.cat5,.cat6,.cat7,.cat8,.cat9,.cat10,.cat11,.cat12,.cat13,.cat14,.cat15,.cat16,.cat17,.cat18,p{
+        
+      font-size: 10px;
+      margin-left: 0px;
+      
+      }
+      
+      .row3 .btn{
+     color: white;
+     background-color: #CECECE;
+     border-radius: 10px 10px 0px 0px;
+     margin-bottom: 100px;
+     margin-top: 100px;
+     margin-left: 450px;
+      }
+
+    .row3 .btn{
+        margin-left: 300px;
+    }
+
+
+    .row4{
+        min-width: 100vh;
+        height: 2999px;
+     }
+    
+     .row4 p{
+        margin-left: 0px;
+        font-size: 16px;
+        font-weight: 500;
+        margin-bottom: 50px;
+     }
+    
+     .card{
+        border: none;
+        margin-left: 30px;
+     }
+
+     .card img{
+        width:780px;
+     }
+    
+     .card-body h5{
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 20px;
+        margin-left: -40px;
+    
+        
+     }
+    
+     .card-body p{
+     
+       font-size: 15px;
+       margin-bottom: 20px;
+       margin-left: 45px;
+    }
+    
+    
+    span,.fas{
+       background-color: rgb(240, 17, 17);
+       padding: 10px 13px;
+       color: white;
+       border-radius: 100%;
+    }
+    
+    .card-body h6{
+     
+       font-size: 14px;
+       margin-left: 45px;
+    }
+    
+    .card-body a{
+       background-color: rgb(43, 255, 0);
+       padding: 5px 8px;
+       border-radius: 100%;
+       color: white;
+       margin-left: 8px;
+    }
+    .row5{
+        min-width: 100vh;
+        height: 600px;
+     } 
+    .row5 .row{
+        display: flex;
+        justify-content:center;
+        padding-top: 50px;
+     }
+     
+     
+     .row5 p{
+        padding-top: 10px;
+        color: rgb(209, 202, 202);
+        font-size: 17px;
+        font-weight: 500;
+      }
+     
+     
+}
